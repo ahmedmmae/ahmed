@@ -7,7 +7,7 @@
 
 #include "stdio.h"
 #include "types.h"
-//go here
+//go
 int main(void)
 {
 
